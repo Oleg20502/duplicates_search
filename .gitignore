@@ -6,6 +6,7 @@ models*/
 *.bin
 *.pt
 *.h5
+*.safetensors
 
 # Exclude wandb logs
 wandb/
